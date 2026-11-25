@@ -65,6 +65,7 @@ The creator later described it on BitcoinTalk:
 - [BitcoinTalk — Challenge thread (updated)](https://bitcointalk.org/index.php?topic=5218972.0) — The "~1000 BTC total bounty" thread with current status updates.
 - [privatekeys.pw/puzzles/bitcoin-puzzle-tx](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx) — Comprehensive tracker with all addresses, solved keys, and transaction links.
 - [btcpuzzle.info](https://btcpuzzle.info/) — Puzzle list, progress calculator, and pool-based searching.
+- [Written in Bitcoin — puzzle status](https://writteninbitcoin.com/en/puzzles/bitcoin-puzzle-transaction) — All 160 prizes with key range, address and amount, and a live on-chain check whether each prize is still unspent, read from a full node. No key search.
 - [Hacker News discussion (Puzzle #66)](https://news.ycombinator.com/item?id=41547395) — Technical discussion around the September 2024 solve.
 - [OEIS A369920](https://oeis.org/A369920) — The solved private keys are registered as a sequence in the Online Encyclopedia of Integer Sequences.
 
